@@ -12,7 +12,7 @@ This repository contains the project files for the "Building a Domain Expert Mod
 
 #### Project Requirements
 - Collect Project Documentation and Submit:
-  - Revisit the [project assessment rubric](https://review.udacity.com/#!/rubrics/5366/view)) and ensure all project requirements are met.
+  - Revisit the [project assessment rubric](https://review.udacity.com/#!/rubrics/5366/view) and ensure all project requirements are met.
   - Ensure all necessary files, proof, and documentation are collected for submission.
 
 #### Required Files
